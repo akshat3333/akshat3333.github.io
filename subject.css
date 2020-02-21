@@ -1,0 +1,23 @@
+table,td{
+	border: solid black 2px;
+	border-collapse:collapse;
+	padding: 15px;
+}
+
+td {
+
+	font-size: 30px;
+}
+
+table{
+	margin-top: 50px;
+}
+h1 {
+	font-size: 50px;
+	text-align: center;
+	color: #3E46D1;
+}
+
+body{
+	font-family: Cormorant Garamond;
+}

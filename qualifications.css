@@ -1,0 +1,16 @@
+h1 {
+	font-family: Cinzel;
+	text-align: center;
+	color: #3E46D1;
+}
+
+table,td{
+	border: solid black 2px;
+	border-collapse:collapse;
+	padding: 15px;
+}
+
+td {
+	font-family: cursive;
+	font-size: 30px;
+}

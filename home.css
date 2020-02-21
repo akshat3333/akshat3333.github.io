@@ -1,0 +1,48 @@
+iframe{
+	height:800px;
+	width:100%;
+}
+
+	
+.topnav {
+  background-color:#D4F7F6;
+  overflow: hidden;
+  font-family: 'Simonetta';
+  font-size: 
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+  float: left;
+  color:#000000;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+  background-color:aqua;
+  color: black;
+}
+
+/* Add a color to the active/current link */
+.topnav a.active {
+  background-color: #4CAF50;
+  color: white;
+}
+
+#rand {
+  background:#3B34D5;
+  color: aliceblue;
+}
+
+body{
+	background-image: url('light.jpg');
+}
+
+footer{
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+	font-size: 20px;
+}
